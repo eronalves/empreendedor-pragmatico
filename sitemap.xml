@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://eronalves.github.io/empreendedor-pragmatico/</loc>
+    <lastmod>2016-04-22T20:11:21-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://eronalves.github.io/empreendedor-pragmatico/post/design-thinking/</loc>
+    <lastmod>2016-04-22T20:11:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eronalves.github.io/empreendedor-pragmatico/post/melhoria-continua-kanban/</loc>
+    <lastmod>2016-04-21T12:06:34-03:00</lastmod>
+  </url>
+  
+</urlset>
