@@ -1,0 +1,38 @@
+baseurl = "http://eronalves.github.io/empreendedor-pragmatico/"
+languageCode = "pt-br"
+title = "Empreendedor Pragmático"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = "eronalves"
+theme = "hugo-minimalist-theme"
+favicon = "static/favicon.ico"
+
+
+
+[params]
+    site_author = "Eron Alves"
+    site_description = "Gestão e Tecnologia por Eron Alves."
+    location = "Brasil"
+    # All paths are relative to the baseurl. Put your files
+    # somewhere in the static folder.
+    avatar = "/static/img/eronalves128.png"
+    header_background = "img/desk.jpg"
+    header_title = "Empreendedor Pragmático"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = "UA-46870903-2"
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "eronralves"
+    facebook  = "eron.rodriguesalves"
+    linkedin  = "eronr"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "eronalves"
+    gplus     = ""
